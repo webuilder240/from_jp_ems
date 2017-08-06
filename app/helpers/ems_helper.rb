@@ -1,0 +1,2 @@
+module EmsHelper
+end
